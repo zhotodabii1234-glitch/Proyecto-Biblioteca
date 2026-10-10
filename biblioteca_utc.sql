@@ -81,7 +81,8 @@ CREATE TABLE IF NOT EXISTS `libros` (
 INSERT INTO `libros` (`id_libro`, `titulo`, `autor`, `ejemplares_disponibles`) VALUES
 (1, 'Bicentenario en el estado de mexico', 'Gobierno del estado de mexico', 0),
 (2, 'Historia secreta de la masoneria', 'Jeremy Harwood', 0),
-(3, 'Introduccion a la psicologia', 'Fernando Zepeda Herrera', 0);
+(3, 'Introduccion a la psicologia', 'Fernando Zepeda Herrera', 0)
+(4, 'Una imagen en el espejo', 'Daniel Stel',1);
 
 -- --------------------------------------------------------
 
