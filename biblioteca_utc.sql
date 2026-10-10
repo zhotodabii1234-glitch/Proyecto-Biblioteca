@@ -111,7 +111,5 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*cristian rodolfo set collaboration xd
-ijijffjiefjiojicjaw
-kef
-xd xd xd xd 
+
 
